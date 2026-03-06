@@ -196,6 +196,35 @@ body {
   gap: 4px;
 }
 
+.subsection-clauses {
+  margin-top: 4px;
+  margin-left: 18px;
+}
+
+.subsection-clauses li {
+  display: flex;
+  gap: 6px;
+}
+
+.subsection-clause-label {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.subsection-continuation {
+  margin-top: 4px;
+  margin-left: 18px;
+}
+
+.subsection-provisos {
+  margin-top: 4px;
+  margin-left: 18px;
+}
+
+.subsection-proviso-label {
+  font-weight: 600;
+}
+
 .subsection-number {
   font-weight: 600;
 }

@@ -335,44 +335,49 @@ export default function HomePage() {
                     <div className="subsections">
                       <div className="subsections-header">Subsections</div>
                       <ul>
-                        {section.subsections.map((sub, subIndex) => {
-                          const clauseParts =
-                            sub.clauses && sub.clauses.length > 0
-                              ? sub.clauses.map(
-                                  (clause) =>
-                                    `${clause.label ? `${clause.label}) ` : ""}${
-                                      clause.text ?? ""
-                                    }`
-                                )
-                              : [];
-
-                          const provisoParts =
-                            sub.provisos && sub.provisos.length > 0
-                              ? sub.provisos.map(
-                                  (p) =>
-                                    `${p.label ?? "Provided that"}: ${p.text ?? ""}`
-                                )
-                              : [];
-
-                          const rowText = [
-                            sub.text ?? "",
-                            ...clauseParts,
-                            sub.continuation ?? "",
-                            ...provisoParts
-                          ]
-                            .filter(Boolean)
-                            .join(" ");
-
-                          return (
-                            <li key={sub.number ?? sub.text ?? subIndex}>
+                        {section.subsections.map((sub, subIndex) => (
+                          <li key={sub.number ?? sub.text ?? subIndex}>
+                            <div>
                               <span className="subsection-number">
                                 {sub.number}
                                 {sub.number ? "." : ""}
                               </span>
-                              <span>{rowText}</span>
-                            </li>
-                          );
-                        })}
+                              <span>{sub.text}</span>
+                            </div>
+
+                            {sub.clauses && sub.clauses.length > 0 && (
+                              <ul className="subsection-clauses">
+                                {sub.clauses.map((clause) => (
+                                  <li key={clause.label ?? clause.text}>
+                                    <span className="subsection-clause-label">
+                                      {clause.label ? `${clause.label})` : ""}
+                                    </span>
+                                    <span>{clause.text}</span>
+                                  </li>
+                                ))}
+                              </ul>
+                            )}
+
+                            {sub.continuation && (
+                              <div className="subsection-continuation">
+                                {sub.continuation}
+                              </div>
+                            )}
+
+                            {sub.provisos && sub.provisos.length > 0 && (
+                              <div className="subsection-provisos">
+                                {sub.provisos.map((p) => (
+                                  <div key={p.text}>
+                                    <span className="subsection-proviso-label">
+                                      {p.label ?? "Provided that"}:
+                                    </span>{" "}
+                                    <span>{p.text}</span>
+                                  </div>
+                                ))}
+                              </div>
+                            )}
+                          </li>
+                        ))}
                       </ul>
                     </div>
                   )}
