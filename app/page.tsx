@@ -320,7 +320,10 @@ export default function HomePage() {
                   {section.explanation && (
                     <div className="field">
                       <label>Explanation</label>
-                      <p>{section.explanation}</p>
+                      <p className="explanation-text">
+                        <span className="explanation-label">Explanation.— </span>
+                        <span>{section.explanation}</span>
+                      </p>
                     </div>
                   )}
 
@@ -350,7 +353,7 @@ export default function HomePage() {
                                 {sub.clauses.map((clause) => (
                                   <li key={clause.label ?? clause.text}>
                                     <span className="subsection-clause-label">
-                                      {clause.label ? `${clause.label})` : ""}
+                                      {clause.label ? `(${clause.label})` : ""}
                                     </span>
                                     <span>{clause.text}</span>
                                   </li>

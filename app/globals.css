@@ -198,7 +198,7 @@ body {
 
 .subsection-clauses {
   margin-top: 4px;
-  margin-left: 18px;
+  margin-left: 24px;
 }
 
 .subsection-clauses li {
@@ -213,16 +213,24 @@ body {
 
 .subsection-continuation {
   margin-top: 4px;
-  margin-left: 18px;
+  margin-left: 24px;
 }
 
 .subsection-provisos {
   margin-top: 4px;
-  margin-left: 18px;
+  margin-left: 24px;
 }
 
 .subsection-proviso-label {
   font-weight: 600;
+}
+
+.explanation-text {
+  margin: 0;
+}
+
+.explanation-label {
+  font-style: italic;
 }
 
 .subsection-number {
