@@ -270,8 +270,14 @@ export default function HomePage() {
 
         {actSections && actSections.length > 0 ? (
           <div className="section-list">
-            {actSections.map((section, index) => (
-              <details key={section.id} className="section-item">
+            {actSections.map((section, index) => {
+              const hasRemarks = !!section.remarks && section.remarks.trim().length > 0;
+              const itemClassName = hasRemarks
+                ? "section-item section-item--has-remarks"
+                : "section-item";
+
+              return (
+                <details key={section.id} className={itemClassName}>
                 <summary className="section-summary">
                   <div className="section-summary-main">
                     <span className="section-number">
@@ -329,45 +335,44 @@ export default function HomePage() {
                     <div className="subsections">
                       <div className="subsections-header">Subsections</div>
                       <ul>
-                        {section.subsections.map((sub) => (
-                          <li key={sub.number ?? sub.text}>
-                            <div>
+                        {section.subsections.map((sub, subIndex) => {
+                          const clauseParts =
+                            sub.clauses && sub.clauses.length > 0
+                              ? sub.clauses.map(
+                                  (clause) =>
+                                    `${clause.label ? `${clause.label}) ` : ""}${
+                                      clause.text ?? ""
+                                    }`
+                                )
+                              : [];
+
+                          const provisoParts =
+                            sub.provisos && sub.provisos.length > 0
+                              ? sub.provisos.map(
+                                  (p) =>
+                                    `${p.label ?? "Provided that"}: ${p.text ?? ""}`
+                                )
+                              : [];
+
+                          const rowText = [
+                            sub.text ?? "",
+                            ...clauseParts,
+                            sub.continuation ?? "",
+                            ...provisoParts
+                          ]
+                            .filter(Boolean)
+                            .join(" ");
+
+                          return (
+                            <li key={sub.number ?? sub.text ?? subIndex}>
                               <span className="subsection-number">
                                 {sub.number}
                                 {sub.number ? "." : ""}
                               </span>
-                              <span>{sub.text}</span>
-                            </div>
-
-                            {sub.clauses && sub.clauses.length > 0 && (
-                              <ul>
-                                {sub.clauses.map((clause) => (
-                                  <li key={clause.label ?? clause.text}>
-                                    <strong>
-                                      {clause.label ? `${clause.label}) ` : ""}
-                                    </strong>
-                                    <span>{clause.text}</span>
-                                  </li>
-                                ))}
-                              </ul>
-                            )}
-
-                            {sub.continuation && (
-                              <div style={{ marginTop: 4 }}>{sub.continuation}</div>
-                            )}
-
-                            {sub.provisos && sub.provisos.length > 0 && (
-                              <div style={{ marginTop: 4 }}>
-                                {sub.provisos.map((p) => (
-                                  <div key={p.text}>
-                                    <strong>{p.label ?? "Provided that"}: </strong>
-                                    <span>{p.text}</span>
-                                  </div>
-                                ))}
-                              </div>
-                            )}
-                          </li>
-                        ))}
+                              <span>{rowText}</span>
+                            </li>
+                          );
+                        })}
                       </ul>
                     </div>
                   )}
@@ -390,7 +395,8 @@ export default function HomePage() {
                   )}
                 </div>
               </details>
-            ))}
+              );
+            })}
           </div>
         ) : (
           <p className="hint">
