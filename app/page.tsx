@@ -94,10 +94,15 @@ export default function HomePage() {
         }
       }
 
-      const merged = baseSections.map((s) => ({
-        ...s,
-        remarks: remarksBySectionId[s.id] ?? s.remarks ?? ""
-      }));
+      const merged = baseSections.map((s, index) => {
+        const generatedId = `section-${s.section_number ?? index + 1}`;
+        const id = s.id ?? generatedId;
+        return {
+          ...s,
+          id,
+          remarks: remarksBySectionId[id] ?? s.remarks ?? ""
+        };
+      });
 
       setActSections(merged);
       setActLoadedCount(merged.length);
@@ -123,9 +128,12 @@ export default function HomePage() {
     try {
       setActSaving(true);
       const remarksBySectionId: Record<string, string> = {};
-      for (const s of actSections) {
+      for (let index = 0; index < actSections.length; index += 1) {
+        const s = actSections[index]!;
         const r = (s.remarks ?? "").trim();
-        if (r) remarksBySectionId[s.id] = r;
+        if (!r) continue;
+        const id = s.id ?? `section-${s.section_number ?? index + 1}`;
+        remarksBySectionId[id] = r;
       }
 
       const headers: Record<string, string> = { "content-type": "application/json" };
