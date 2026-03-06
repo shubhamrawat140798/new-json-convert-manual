@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -16,15 +16,13 @@
     <div class="app">
       <header class="app-header">
         <div>
-          <h1>Manual Text → JSON</h1>
-          <p class="subtitle">
-            Paste or type structured text (e.g. <code>name: John</code>) and instantly
-            convert it to JSON.
-          </p>
+          <h1>Obten - RAG → Proof reader</h1>
         </div>
         <div class="doc-loader">
           <div class="field">
-            <label for="docSelect">Open existing JSON (from <code>doc</code> folder)</label>
+            <label for="docSelect"
+              >Open existing JSON (from <code>doc</code> folder)</label
+            >
             <select id="docSelect">
               <option value="">Select an Act JSON…</option>
               <option value="BNSS_ACT.json">BNSS_ACT</option>
@@ -33,22 +31,34 @@
               <option value="BNS_ACT.json">BNS_ACT</option>
               <option value="CCrP_ACT.json">CCrP_ACT</option>
               <option value="MV_ACT.json">MV_ACT</option>
-              <option value="ANTI_HIJACKING_ACT.json">ANTI_HIJACKING_ACT</option>
+              <option value="ANTI_HIJACKING_ACT.json">
+                ANTI_HIJACKING_ACT
+              </option>
               <option value="ARMS_ACT.json">ARMS_ACT</option>
-              <option value="SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_MARITIME_NAVIGATION_AND_FIXED_PLATFORMS_ON_CONTINENTAL_SHELF_ACT.json">
+              <option
+                value="SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_MARITIME_NAVIGATION_AND_FIXED_PLATFORMS_ON_CONTINENTAL_SHELF_ACT.json"
+              >
                 SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_MARITIME_NAVIGATION...
               </option>
-              <option value="WEAPONS_OF_MASS_DESTRUCTION_AND_THEIR_DELIVERY_SYSTEMS_PROHIBITION_OF_UNLAWFUL_ACTIVITIES_ACT.json">
+              <option
+                value="WEAPONS_OF_MASS_DESTRUCTION_AND_THEIR_DELIVERY_SYSTEMS_PROHIBITION_OF_UNLAWFUL_ACTIVITIES_ACT.json"
+              >
                 WEAPONS_OF_MASS_DESTRUCTION_AND_THEIR_DELIVERY_SYSTEMS...
               </option>
-              <option value="SAARC_CONVENTION_SUPPRESSION_OF_TERRORISM_ACT.json">
+              <option
+                value="SAARC_CONVENTION_SUPPRESSION_OF_TERRORISM_ACT.json"
+              >
                 SAARC_CONVENTION_SUPPRESSION_OF_TERRORISM_ACT
               </option>
-              <option value="SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_CIVIL_AVIATION_ACT.json">
+              <option
+                value="SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_CIVIL_AVIATION_ACT.json"
+              >
                 SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_CIVIL_AVIATION_ACT
               </option>
               <option value="ATOMIC_ENERGY_ACT.json">ATOMIC_ENERGY_ACT</option>
-              <option value="EXPLOSIVE_SUBSTANCES_ACT.json">EXPLOSIVE_SUBSTANCES_ACT</option>
+              <option value="EXPLOSIVE_SUBSTANCES_ACT.json">
+                EXPLOSIVE_SUBSTANCES_ACT
+              </option>
               <option value="IT_ACT.json">IT_ACT</option>
               <option value="NIA_ACT.json">NIA_ACT</option>
               <option value="UAP_ACT.json">UAP_ACT</option>
@@ -106,8 +116,8 @@ address.city: New York"
           </button>
 
           <p class="hint">
-            Lines without a separator will be ignored. Values that look like numbers,
-            booleans, or <code>null</code> are automatically typed.
+            Lines without a separator will be ignored. Values that look like
+            numbers, booleans, or <code>null</code> are automatically typed.
           </p>
         </section>
 
@@ -123,7 +133,11 @@ address.city: New York"
               </button>
             </div>
           </div>
-          <pre id="jsonOutput" class="code-block" aria-label="JSON output"></pre>
+          <pre
+            id="jsonOutput"
+            class="code-block"
+            aria-label="JSON output"
+          ></pre>
           <div id="statusBar" class="status-bar" aria-live="polite"></div>
         </section>
       </main>
@@ -136,4 +150,3 @@ address.city: New York"
     <script src="./script.js"></script>
   </body>
 </html>
-
