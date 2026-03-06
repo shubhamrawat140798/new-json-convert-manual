@@ -86,15 +86,11 @@ export async function POST(request: Request, { params }: Params) {
       remarksBySectionId
     };
 
-    await put(
-      pathname,
-      JSON.stringify(doc, null, 2),
-      {
-        access: "private",
-        contentType: "application/json",
-        addRandomSuffix: false
-      } as any
-    );
+    await put(pathname, JSON.stringify(doc, null, 2), {
+      access: "public",
+      contentType: "application/json",
+      addRandomSuffix: false
+    });
 
     return NextResponse.json(doc);
   } catch (error) {
