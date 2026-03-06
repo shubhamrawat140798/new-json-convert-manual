@@ -200,11 +200,7 @@ export default function HomePage() {
     <div className="app">
       <header className="app-header">
         <div>
-          <h1>Manual Text → JSON</h1>
-          <p className="subtitle">
-            Paste or type structured text (e.g. <code>name: John</code>) and instantly
-            convert it to JSON.
-          </p>
+          <h1>Obten – RAG → Proof reader</h1>
         </div>
         <div className="doc-loader">
           <div className="field">
