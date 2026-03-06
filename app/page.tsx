@@ -2,8 +2,27 @@
 
 import { useCallback, useMemo, useState } from "react";
 
+type ActClause = {
+  label?: string;
+  text?: string;
+};
+
+type ActProviso = {
+  label?: string;
+  text?: string;
+};
+
 type ActSubsection = {
   number?: string;
+  text?: string;
+  clauses?: ActClause[];
+  continuation?: string;
+  provisos?: ActProviso[];
+};
+
+type ActIllustration = {
+  clause?: string;
+  label?: string;
   text?: string;
 };
 
@@ -19,6 +38,7 @@ type ActSection = {
   explanation?: string;
   keywords?: string[];
   subsections?: ActSubsection[];
+  illustrations?: ActIllustration[];
   source?: string;
   remarks?: string;
   // Allow additional fields from JSON without forcing typing everywhere
@@ -284,17 +304,85 @@ export default function HomePage() {
                     />
                   </div>
 
+                  {section.content && (
+                    <div className="field">
+                      <label>Lead text</label>
+                      <p>{section.content}</p>
+                    </div>
+                  )}
+
+                  {section.explanation && (
+                    <div className="field">
+                      <label>Explanation</label>
+                      <p>{section.explanation}</p>
+                    </div>
+                  )}
+
+                  {section.keywords && section.keywords.length > 0 && (
+                    <div className="field">
+                      <label>Keywords</label>
+                      <p>{section.keywords.join(", ")}</p>
+                    </div>
+                  )}
+
                   {section.subsections && section.subsections.length > 0 && (
                     <div className="subsections">
                       <div className="subsections-header">Subsections</div>
                       <ul>
                         {section.subsections.map((sub) => (
                           <li key={sub.number ?? sub.text}>
-                            <span className="subsection-number">
-                              {sub.number}
-                              {sub.number ? "." : ""}
-                            </span>
-                            <span>{sub.text}</span>
+                            <div>
+                              <span className="subsection-number">
+                                {sub.number}
+                                {sub.number ? "." : ""}
+                              </span>
+                              <span>{sub.text}</span>
+                            </div>
+
+                            {sub.clauses && sub.clauses.length > 0 && (
+                              <ul>
+                                {sub.clauses.map((clause) => (
+                                  <li key={clause.label ?? clause.text}>
+                                    <strong>
+                                      {clause.label ? `${clause.label}) ` : ""}
+                                    </strong>
+                                    <span>{clause.text}</span>
+                                  </li>
+                                ))}
+                              </ul>
+                            )}
+
+                            {sub.continuation && (
+                              <div style={{ marginTop: 4 }}>{sub.continuation}</div>
+                            )}
+
+                            {sub.provisos && sub.provisos.length > 0 && (
+                              <div style={{ marginTop: 4 }}>
+                                {sub.provisos.map((p) => (
+                                  <div key={p.text}>
+                                    <strong>{p.label ?? "Provided that"}: </strong>
+                                    <span>{p.text}</span>
+                                  </div>
+                                ))}
+                              </div>
+                            )}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+                  {section.illustrations && section.illustrations.length > 0 && (
+                    <div className="subsections">
+                      <div className="subsections-header">Illustrations</div>
+                      <ul>
+                        {section.illustrations.map((ill, i) => (
+                          <li key={ill.label ?? ill.text ?? i}>
+                            {ill.clause && (
+                              <strong>{`[Clause ${ill.clause}] `}</strong>
+                            )}
+                            {ill.label && <strong>{ill.label}: </strong>}
+                            <span>{ill.text}</span>
                           </li>
                         ))}
                       </ul>
