@@ -1,0 +1,1966 @@
+[
+    {
+        "id": "section-1",
+        "section_number": "1",
+        "title": "Short title, extent and application",
+        "content": "(1) This Act may be called the Unlawful Activities (Prevention) Act, 1967 (37 of 1967).\n(2) It extends to the whole of India.\n(3) Every person shall be liable to punishment under this Act for every act or omission contrary to the provisions thereof, of which he is held guilty in India.\n(4) Any person, who commits an offence beyond India, which is punishable under this Act, shall be dealt with according to the provisions of this Act in the same manner as if such act had been committed in India.\n(5) The provisions of this Act apply also to—\n(a) citizens of India outside India;\n(b) persons in the service of the Government, wherever they may be; and\n(c) persons on ships and aircrafts, registered in India, wherever they may be.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "1",
+        "chapter_title": "PRELIMINARY",
+        "chapter_sub_title": "PRELIMINARY",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "This Act may be called the Unlawful Activities (Prevention) Act, 1967 (37 of 1967)."
+            },
+            {
+                "number": "(2)",
+                "text": "It extends to the whole of India."
+            },
+            {
+                "number": "(3)",
+                "text": "Every person shall be liable to punishment under this Act for every act or omission contrary to the provisions thereof, of which he is held guilty in India."
+            },
+            {
+                "number": "(4)",
+                "text": "Any person, who commits an offence beyond India, which is punishable under this Act, shall be dealt with according to the provisions of this Act in the same manner as if such act had been committed in India."
+            },
+            {
+                "number": "(5)",
+                "text": "The provisions of this Act apply also to—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "citizens of India outside India;"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "persons in the service of the Government, wherever they may be;"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "persons on ships and aircrafts, registered in India, wherever they may be."
+                    }
+                ]
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-2",
+        "section_number": "2",
+        "title": "Definitions",
+        "content": "(1) In this Act, unless the context otherwise requires,—",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "1",
+        "chapter_title": "PRELIMINARY",
+        "chapter_sub_title": "PRELIMINARY",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "In this Act, unless the context otherwise requires,—",
+                "definitions": [
+                    {
+                        "term": "association",
+                        "text": "means any combination or body of individuals"
+                    },
+                    {
+                        "term": "cession of a part of the territory of India",
+                        "text": "includes admission of the claim of any foreign country to any such part"
+                    },
+                    {
+                        "term": "Code",
+                        "text": "means the Code of Criminal Procedure, 1973 (2 of 1974)"
+                    },
+                    {
+                        "term": "court",
+                        "text": "means a criminal court having jurisdiction, under the Code, to try offences under this Act and includes a Special Court constituted under section 11 or under section 21 of the National Investigation Agency Act, 2008"
+                    },
+                    {
+                        "term": "Designated Authority",
+                        "text": "means such officer of the Central Government not below the rank of Joint Secretary to that Government, or such officer of the State Government not below the rank of Secretary to that Government, as the case may be, as may be specified by the Central Government or the State Government, by notification published in the Official Gazette"
+                    },
+                    {
+                        "term": "economic security",
+                        "text": "includes financial, monetary and fiscal stability, security of means of production and distribution, food security, livelihood security, energy security, ecological and environmental security"
+                    },
+                    {
+                        "term": "Order",
+                        "text": "means the Prevention and Suppression of Terrorism (Implementation of Security Council Resolutions) Order, 2007, as may be amended from time to time"
+                    },
+                    {
+                        "term": "person",
+                        "text": "includes (i) an individual, (ii) a company, (iii) a firm, (iv) an organisation or an association of persons or a body of individuals, whether incorporated or not, (v) every artificial juridical person, not falling within any of the preceding sub-clauses, and (vi) any agency, office or branch owned or controlled by any person falling within any of the preceding sub-clauses"
+                    },
+                    {
+                        "term": "prescribed",
+                        "text": "means prescribed by rules made under this Act"
+                    },
+                    {
+                        "term": "proceeds of terrorism",
+                        "text": "means (i) all kinds of properties which have been derived or obtained from commission of any terrorist act or have been acquired through funds traceable to a terrorist act, irrespective of person in whose name such proceeds are standing or in whose possession they are found; or (ii) any property which is being used, or is intended to be used, for a terrorist act or for the purpose of an individual terrorist or a terrorist gang or a terrorist organisation"
+                    },
+                    {
+                        "term": "property",
+                        "text": "means property and assets of every description whether corporeal or incorporeal, movable or immovable, tangible or intangible and legal documents, deeds and instruments in any form including but not limited to electronic or digital, evidencing title to, or interest in, such property or assets by means of bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts, letters of credit, cash and bank account including fund, however acquired"
+                    },
+                    {
+                        "term": "Schedule",
+                        "text": "means the Schedule to this Act"
+                    },
+                    {
+                        "term": "secession of a part of the territory of India from the Union",
+                        "text": "includes the assertion of any claim to determine whether such part will remain a part of the territory of India"
+                    },
+                    {
+                        "term": "State Government",
+                        "text": "in relation to a Union territory, means the Administrator thereof"
+                    },
+                    {
+                        "term": "terrorist act",
+                        "text": "has the meaning assigned to it in section 15, and the expressions 'terrorism' and 'terrorist' shall be construed accordingly"
+                    },
+                    {
+                        "term": "terrorist gang",
+                        "text": "means any association, other than terrorist organisation, whether systematic or otherwise, which is concerned with, or involved in, terrorist act"
+                    },
+                    {
+                        "term": "terrorist organisation",
+                        "text": "means an organisation listed in the Schedule or an organisation operating under the same name as an organisation so listed"
+                    },
+                    {
+                        "term": "Tribunal",
+                        "text": "means the Tribunal constituted under section 5"
+                    },
+                    {
+                        "term": "unlawful activity",
+                        "text": "in relation to an individual or association, means any action taken by such individual or association (whether by committing an act or by words, either spoken or written, or by signs or by visible representation or otherwise), (i) which is intended, or supports any claim, to bring about, on any ground whatsoever, the cession of a part of the territory of India or the secession of a part of the territory of India from the Union, or which incites any individual or group of individuals to bring about such cession or secession; or (ii) which disclaims, questions, disrupts or is intended to disrupt the sovereignty and territorial integrity of India; or (iii) which causes or is intended to cause disaffection against India"
+                    },
+                    {
+                        "term": "unlawful association",
+                        "text": "means any association (i) which has for its object any unlawful activity, or which encourages or aids persons to undertake any unlawful activity, or of which the members undertake such activity; or (ii) which has for its object any activity which is punishable under section 153A or section 153B of the Indian Penal Code, or which encourages or aids persons to undertake any such activity, or of which the members undertake any such activity"
+                    }
+                ]
+            },
+            {
+                "number": "(2)",
+                "text": "Any reference in this Act to any enactment or any provision thereof shall, in relation to an area in which such enactment or such provision is not in force, be construed as a reference to the corresponding law or the relevant provision of the corresponding law, if any, in force in that area."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-3",
+        "section_number": "3",
+        "title": "Declaration of an association as unlawful",
+        "content": "Declaration of an association as unlawful.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "2",
+        "chapter_title": "UNLAWFUL ASSOCIATIONS",
+        "chapter_sub_title": "UNLAWFUL ASSOCIATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "If the Central Government is of opinion that any association is, or has become, an unlawful association, it may, by notification in the Official Gazette, declare such association to be unlawful."
+            },
+            {
+                "number": "(2)",
+                "text": "Every such notification shall specify the grounds on which it is issued and such other particulars as the Central Government may consider necessary",
+                "proviso": "Provided that nothing in this sub-section shall require the Central Government to disclose any fact which it considers to be against the public interest to disclose."
+            },
+            {
+                "number": "(3)",
+                "text": "No such notification shall have effect until the Tribunal has, by an order made under section 4, confirmed the declaration made therein and the order is published in the Official Gazette",
+                "proviso": "Provided that if the Central Government is of opinion that circumstances exist which render it necessary for that Government to declare an association to be unlawful with immediate effect, it may, for reasons to be stated in writing, direct that the notification shall, subject to any order that may be made under section 4, have effect from the date of its publication in the Official Gazette."
+            },
+            {
+                "number": "(4)",
+                "text": "Every such notification shall, in addition to its publication in the Official Gazette, be published in not less than one daily newspaper having circulation in the State in which the principal office, if any, of the association affected is situated, and shall also be served on such association in such manner as the Central Government may think fit and all or any of the following modes may be followed in effecting such service, namely:—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "by affixing a copy of the notification to some conspicuous part of the office, if any, of the association"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "by serving a copy of the notification, where possible, on the principal office-bearers, if any, of the association"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "by proclaiming by beat of drum or by means of loudspeakers, the contents of the notification in the area in which the activities of the association are ordinarily carried on"
+                    },
+                    {
+                        "clause": "(d)",
+                        "text": "in such other manner as may be prescribed"
+                    }
+                ]
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-4",
+        "section_number": "4",
+        "title": "Reference to Tribunal",
+        "content": "Reference to Tribunal.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "2",
+        "chapter_title": "UNLAWFUL ASSOCIATIONS",
+        "chapter_sub_title": "UNLAWFUL ASSOCIATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Where any association has been declared unlawful by a notification issued under sub-section (1) of section 3, the Central Government shall, within thirty days from the date of the publication of the notification under the said sub-section, refer the notification to the Tribunal for the purpose of adjudicating whether or not there is sufficient cause for declaring the association unlawful."
+            },
+            {
+                "number": "(2)",
+                "text": "On receipt of a reference under sub-section (1), the Tribunal shall call upon the association affected by notice in writing to show cause, within thirty days from the date of the service of such notice, why the association should not be declared unlawful."
+            },
+            {
+                "number": "(3)",
+                "text": "After considering the cause, if any, shown by the association or the office-bearers or members thereof, the Tribunal shall hold an inquiry in the manner specified in section 9 and after calling for such further information as it may consider necessary from the Central Government or from any office-bearer or member of the association, it shall decide whether or not there is sufficient cause for declaring the association to be unlawful and make, as expeditiously as possible and in any case within a period of six months from the date of the issue of the notification under sub-section (1) of section 3, such order as it may deem fit either confirming the declaration made in the notification or cancelling the same."
+            },
+            {
+                "number": "(4)",
+                "text": "The order of the Tribunal made under sub-section (3) shall be published in the Official Gazette."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-5",
+        "section_number": "5",
+        "title": "Tribunal",
+        "content": "Tribunal.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "2",
+        "chapter_title": "UNLAWFUL ASSOCIATIONS",
+        "chapter_sub_title": "UNLAWFUL ASSOCIATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "The Central Government may, by notification in the Official Gazette, constitute, as and when necessary, a tribunal to be known as the \"Unlawful Activities (Prevention) Tribunal\" consisting of one person, to be appointed by the Central Government",
+                "proviso": "Provided that no person shall be so appointed unless he is a Judge of a High Court."
+            },
+            {
+                "number": "(2)",
+                "text": "If, for any reason, a vacancy (other than a temporary absence) occurs in the office of the presiding officer of the Tribunal, then, the Central Government shall appoint another person in accordance with the provisions of this section to fill the vacancy and the proceedings may be continued before the Tribunal from the stage at which the vacancy is filled."
+            },
+            {
+                "number": "(3)",
+                "text": "The Central Government shall make available to the Tribunal such staff as may be necessary for the discharge of its functions under this Act."
+            },
+            {
+                "number": "(4)",
+                "text": "All expenses incurred in connection with the Tribunal shall be defrayed out of the Consolidated Fund of India."
+            },
+            {
+                "number": "(5)",
+                "text": "Subject to the provisions of section 9, the Tribunal shall have power to regulate its own procedure in all matters arising out of the discharge of its functions including the place or places at which it will hold its sittings."
+            },
+            {
+                "number": "(6)",
+                "text": "The Tribunal shall, for the purpose of making an inquiry under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "the summoning and enforcing the attendance of any witness and examining him on oath"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "the discovery and production of any document or other material object producible as evidence"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "the reception of evidence on affidavits"
+                    },
+                    {
+                        "clause": "(d)",
+                        "text": "the requisitioning of any public record from any court or office"
+                    },
+                    {
+                        "clause": "(e)",
+                        "text": "the issuing of any commission for the examination of witnesses"
+                    }
+                ]
+            },
+            {
+                "number": "(7)",
+                "text": "Any proceeding before the Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Tribunal shall be deemed to be a civil court for the purposes of section 195 and Chapter XXVI of the Code."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-6",
+        "section_number": "6",
+        "title": "Period of operation and cancellation of notification",
+        "content": "Period of operation and cancellation of notification.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "2",
+        "chapter_title": "UNLAWFUL ASSOCIATIONS",
+        "chapter_sub_title": "UNLAWFUL ASSOCIATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Subject to the provisions of sub-section (2), a notification issued under section 3 shall, if the declaration made therein is confirmed by the Tribunal by an order made under section 4, remain in force for a period of five years from the date on which the notification becomes effective."
+            },
+            {
+                "number": "(2)",
+                "text": "Notwithstanding anything contained in sub-section (1), the Central Government may, either on its own motion or on the application of any person aggrieved, at any time, cancel the notification issued under section 3, whether or not the declaration made therein has been confirmed by the Tribunal."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-7",
+        "section_number": "7",
+        "title": "Power to prohibit the use of funds of an unlawful association",
+        "content": "Power to prohibit the use of funds of an unlawful association.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "2",
+        "chapter_title": "UNLAWFUL ASSOCIATIONS",
+        "chapter_sub_title": "UNLAWFUL ASSOCIATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Where an association has been declared unlawful by a notification issued under section 3 which has become effective under sub-section (3) of that section and the Central Government is satisfied, after such inquiry as it may think it, that any person has custody of any moneys, securities or credits which are being used or are intended to be used for the purpose of the unlawful association, the Central Government may, by order in writing, prohibit such person from paying, delivering, transferring or otherwise dealing in any manner whatsoever with such moneys, securities or credits or with any other moneys, securities or credits which may come into his custody after the making of the order, save in accordance with the written orders of the Central Government and a copy of such order shall be served upon the person so prohibited in the manner specified in sub-section (3)."
+            },
+            {
+                "number": "(2)",
+                "text": "The Central Government may endorse a copy of the prohibitory order made under sub-section (1) for investigation to any gazetted officer of the Government it may select, and such copy shall be a warrant whereunder such officer may enter in or upon any premises of the person to whom the order is directed, examine the books of such person, search for moneys, securities or credits, and make inquiries from such person or any officer, agent or servant of such person, touching the origin of any dealings in any moneys, securities or credits which the investigating officer may suspect are being used or are intended to be used for the purpose of the unlawful association."
+            },
+            {
+                "number": "(3)",
+                "text": "A copy of an order made under this section shall be served in the manner provided in the Code, for the service of a summons, or where the person to be served is a corporation, company, bank or other association, it shall be served on any secretary, director or other officer or person concerned with the management thereof, or by leaving it or sending it by post addressed to the corporation, company, bank or other association at its registered office, or where there is no registered office, at the place where it carries on business."
+            },
+            {
+                "number": "(4)",
+                "text": "Any person aggrieved by a prohibitory order made under sub-section (1) may, within fifteen days from the date of the service of such order, make an application to the Court of the District Judge within the local limits of whose jurisdiction such person voluntarily resides or carries on business or personally works for gain, to establish that the moneys, securities or credits in respect of which the prohibitory order has been made are not being used or are not intended to be used for the purpose of the unlawful association and the Court of the District Judge shall decide the question."
+            },
+            {
+                "number": "(5)",
+                "text": "Except so far as is necessary for the purposes of any proceedings under this section, no information obtained in the course of any investigation made under sub-section (2) shall be divulged by any gazetted officer of the Government, without the consent of the Central Government."
+            },
+            {
+                "number": "(6)",
+                "text": "In this section, \"security\" includes a document whereby any person acknowledges that he is under a legal liability to pay money, or whereunder any person obtains a legal right to the payment of money."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-8",
+        "section_number": "8",
+        "title": "Power to notify places used for the purpose of an unlawful association",
+        "content": "Power to notify places used for the purpose of an unlawful association.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "2",
+        "chapter_title": "UNLAWFUL ASSOCIATIONS",
+        "chapter_sub_title": "UNLAWFUL ASSOCIATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Where an association has been declared unlawful by a notification issued under section 3 which has become effective under sub-section (3) of that section, the Central Government may, by notification in the Official Gazette, notify any place which in its opinion is used for the purpose of such unlawful association."
+            },
+            {
+                "number": "(2)",
+                "text": "On the issue of a notification under sub-section (1), the District Magistrate within the local limits of whose jurisdiction such notified place is situate or any officer authorised by him in writing in this behalf shall make a list of all movable properties (other than wearing-apparel, cooking vessels, beds and beddings, tools of artisans, implements of husbandry, cattle, grain and food-stuffs and such other articles as he considers to be of a trivial nature) found in the notified place in the presence of two respectable witnesses."
+            },
+            {
+                "number": "(3)",
+                "text": "If, in the opinion of the District Magistrate, any articles specified in the list are or may be used for the purpose of the unlawful association, he may make an order prohibiting any person from using the articles save in accordance with the written orders of the District Magistrate."
+            },
+            {
+                "number": "(4)",
+                "text": "The District Magistrate may thereupon make an order that no person who at the date of the notification was not a resident in the notified place shall, without the permission of the District Magistrate, enter, or be on or in, the notified place",
+                "proviso": "Provided that nothing in this sub-section shall apply to any near relative of any person who was a resident in the notified place at the date of the notification."
+            },
+            {
+                "number": "(5)",
+                "text": "Where in pursuance of sub-section (4), any person is granted permission to enter, or to be on or in, the notified place, that person shall, while acting under such permission, comply with such orders for regulating his conduct as may be given by the District Magistrate."
+            },
+            {
+                "number": "(6)",
+                "text": "Any police officer, not below the rank of a sub-inspector, or any other person authorised in this behalf by the Central Government may search any person entering, or seeking to enter, or being on or in, the notified place and may detain any such person for the purpose of searching him",
+                "proviso": "Provided that no female shall be searched in pursuance of this sub-section except by a female."
+            },
+            {
+                "number": "(7)",
+                "text": "If any person is in the notified place in contravention of an order made under sub-section (4), then, without prejudice to any other proceedings which may be taken against him, he may be removed therefrom by any officer or by any other person authorised in this behalf by the Central Government."
+            },
+            {
+                "number": "(8)",
+                "text": "Any person aggrieved by a notification issued in respect of a place under sub-section (1) or by an order made under sub-section (3) or sub-section (4) may, within thirty days from the date of the notification or order, as the case may be, make an application to the Court of the District Judge within the local limits of whose jurisdiction such notified place is situate—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "for declaration that the place has not been used for the purpose of the unlawful association"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "for setting aside the order made under sub-section (3) or sub-section (4)"
+                    }
+                ],
+                "additional_text": "and on receipt of the application the Court of the District Judge shall, after giving the parties an opportunity of being heard, decide the question."
+            }
+        ],
+        "explanation": "For the purposes of this sub-section, \"place\" includes a house or building, or part thereof, or a tent or vessel.",
+        "illustrations": []
+    },
+    {
+        "id": "section-9",
+        "section_number": "9",
+        "title": "Procedure to be followed in the disposal of applications under this Act",
+        "content": "Subject to any rules that may be made under this Act, the procedure to be followed by the Tribunal in holding any inquiry under sub-section (3) of section 4 or by a Court of the District Judge in disposing of any application under sub-section (4) of section 7 or sub-section (8) of section 8 shall, so far as may be, be the procedure laid down in the Code of Civil Procedure, 1908 (5 of 1908), for the investigation of claims and the decision of the Tribunal or the Court of the District Judge, as the case may be, shall be final.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "2",
+        "chapter_title": "UNLAWFUL ASSOCIATIONS",
+        "chapter_sub_title": "UNLAWFUL ASSOCIATIONS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-10",
+        "section_number": "10",
+        "title": "Penalty for being member of an unlawful association, etc.",
+        "content": "Where an association is declared unlawful by a notification issued under section 3 which has become effective under sub-section (3) of that section,—",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "3",
+        "chapter_title": "OFFENCES AND PENALTIES",
+        "chapter_sub_title": "OFFENCES AND PENALTIES",
+        "subsections": [
+            {
+                "clause": "(a)",
+                "text": "a person, who—",
+                "subclauses": [
+                    {
+                        "number": "(i)",
+                        "text": "is and continues to be a member of such association"
+                    },
+                    {
+                        "number": "(ii)",
+                        "text": "takes part in meetings of such association"
+                    },
+                    {
+                        "number": "(iii)",
+                        "text": "contributes to, or receives or solicits any contribution for the purpose of, such association"
+                    },
+                    {
+                        "number": "(iv)",
+                        "text": "in any way assists the operations of such association"
+                    }
+                ],
+                "punishment": "shall be punishable with imprisonment for a term which may extend to two years, and shall also be liable to fine"
+            },
+            {
+                "clause": "(b)",
+                "text": "a person, who is or continues to be a member of such association, or voluntarily does an act aiding or promoting in any manner the objects of such association and in either case is in possession of any unlicensed firearms, ammunition, explosive or other instrument or substance capable of causing mass destruction and commits any act resulting in loss of human life or grievous injury to any person or causes significant damage to any property,—",
+                "subclauses": [
+                    {
+                        "number": "(i)",
+                        "text": "and if such act has resulted in the death of any person, shall be punishable with death or imprisonment for life, and shall also be liable to fine"
+                    },
+                    {
+                        "number": "(ii)",
+                        "text": "in any other case, shall be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine"
+                    }
+                ]
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-11",
+        "section_number": "11",
+        "title": "Penalty for dealing with funds of an unlawful association",
+        "content": "If any person on whom a prohibitory order has been served under sub-section (1) of section 7 in respect of any moneys, securities or credits pays, delivers, transfers or otherwise deals in any manner whatsoever with the same in contravention of the prohibitory order, he shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both, and notwithstanding anything contained in the Code, the court trying such contravention may also impose on the person convicted an additional fine to recover from him the amount of the moneys or credits or the market value of the securities in respect of which the prohibitory order has been contravened or such part thereof as the court may deem fit.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "3",
+        "chapter_title": "OFFENCES AND PENALTIES",
+        "chapter_sub_title": "OFFENCES AND PENALTIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-12",
+        "section_number": "12",
+        "title": "Penalty for contravention of an order made in respect of a notified place",
+        "content": "Penalty for contravention of an order made in respect of a notified place.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "3",
+        "chapter_title": "OFFENCES AND PENALTIES",
+        "chapter_sub_title": "OFFENCES AND PENALTIES",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Whoever uses any article in contravention of a prohibitory order in respect thereof made under sub-section (3) of section 8 shall be punishable with imprisonment for a term which may extend to one year, and shall also be liable to fine."
+            },
+            {
+                "number": "(2)",
+                "text": "Whoever knowingly and wilfully is in, or effects or attempts to effect entry into, a notified place in contravention of an order made under sub-section (4) of section 8 shall be punishable with imprisonment for a term which may extend to one year, and shall also be liable to fine."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-13",
+        "section_number": "13",
+        "title": "Punishment for unlawful activities",
+        "content": "Punishment for unlawful activities.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "3",
+        "chapter_title": "OFFENCES AND PENALTIES",
+        "chapter_sub_title": "OFFENCES AND PENALTIES",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Whoever—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "takes part in or commits, or"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "advocates, abets, advises or incites the commission of, any unlawful activity, shall be punishable with imprisonment for a term which may extend to seven years and shall also be liable to fine."
+                    }
+                ]
+            },
+            {
+                "number": "(2)",
+                "text": "Whoever, in any way, assists any unlawful activity of any association, declared unlawful under section 3, after the notification by which it has been so declared has become effective under sub-section (3) of that section, shall be punishable with imprisonment for a term which may extend to five years, or with fine, or with both."
+            },
+            {
+                "number": "(3)",
+                "text": "Nothing in this section shall apply to any treaty, agreement or convention entered into between the Government of India and the Government of any other country or to any negotiations therefor carried on by any person authorised in this behalf by the Government of India."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-14",
+        "section_number": "14",
+        "title": "Offences to be cognizable",
+        "content": "Notwithstanding anything contained in the Code, an offence punishable under this Act shall be cognizable.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "3",
+        "chapter_title": "OFFENCES AND PENALTIES",
+        "chapter_sub_title": "OFFENCES AND PENALTIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-15",
+        "section_number": "15",
+        "title": "Terrorist act",
+        "content": "Terrorist act.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Whoever does any act with intent to threaten or likely to threaten the unity, integrity, security, economic security, or sovereignty of India or with intent to strike terror or likely to strike terror in the people or any section of the people in India or in any foreign country,—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "by using bombs, dynamite or other explosive substances or inflammable substances or firearms or other lethal weapons or poisonous or noxious gases or other chemicals or by any other substances (whether biological radioactive, nuclear or otherwise) of a hazardous nature or by any other means of whatever nature to cause or likely to cause—",
+                        "subclauses": [
+                            {
+                                "number": "(i)",
+                                "text": "death of, or injuries to, any person or persons"
+                            },
+                            {
+                                "number": "(ii)",
+                                "text": "loss of, or damage to, or destruction of, property"
+                            },
+                            {
+                                "number": "(iii)",
+                                "text": "disruption of any supplies or services essential to the life of the community in India or in any foreign country"
+                            },
+                            {
+                                "number": "(iii.a)",
+                                "text": "damage to, the monetary stability of India by way of production or smuggling or circulation of high quality counterfeit Indian paper currency, coin or of any other material"
+                            },
+                            {
+                                "number": "(iv)",
+                                "text": "damage or destruction of any property in India or in a foreign country used or intended to be used for the defence of India or in connection with any other purposes of the Government of India, any State Government or any of their agencies"
+                            }
+                        ]
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "overawes by means of criminal force or the show of criminal force or attempts to do so or causes death of any public functionary or attempts to cause death of any public functionary"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "detains, kidnaps or abducts any person and threatens to kill or injure such person or does any other act in order to compel the Government of India, any State Government or the Government of a foreign country or an international or inter-governmental organisation or any other person to do or abstain from doing any act"
+                    }
+                ],
+                "additional_text": "commits a terrorist act."
+            },
+            {
+                "number": "(2)",
+                "text": "The terrorist act includes an act which constitutes an offence within the scope of, and as defined in any of the treaties specified in the Second Schedule."
+            }
+        ],
+        "explanation": "For the purpose of this sub-section,—\n(a) \"public functionary\" means the constitutional authorities or any other functionary notified in the Official Gazette by the Central Government as public functionary;\n(b) \"high quality counterfeit Indian currency\" means the counterfeit currency as may be declared after examination by an authorised or notified forensic authority that such currency imitates or compromises with the key security features as specified in the Third Schedule.",
+        "illustrations": []
+    },
+    {
+        "id": "section-16",
+        "section_number": "16",
+        "title": "Punishment for terrorist act",
+        "content": "Punishment for terrorist act.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Whoever commits a terrorist act shall,—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "if such act has resulted in the death of any person, be punishable with death or imprisonment for life, and shall also be liable to fine"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "in any other case, be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine"
+                    }
+                ]
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-17",
+        "section_number": "17",
+        "title": "Punishment for raising funds for terrorist act",
+        "content": "Whoever, in India or in a foreign country, directly or indirectly, raises or provides funds or collects funds, whether from a legitimate or illegitimate source, from any person or persons or attempts to provide to, or raises or collects funds for any person or persons, knowing that such funds are likely to be used, in full or in part by such person or persons or by a terrorist organisation or by a terrorist gang or by an individual terrorist to commit a terrorist act, notwithstanding whether such funds were actually used or not for commission of such act, shall be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": "For the purpose of this section,—\n(a) participating, organising or directing in any of the acts stated therein shall constitute an offence;\n(b) raising funds shall include raising or collecting or providing funds through production or smuggling or circulation of high quality counterfeit Indian currency; and\n(c) raising or collecting or providing funds, in any manner for the benefit of, or, to an individual terrorist, terrorist gang or terrorist organisation for the purpose not specifically covered under section 15 shall also be construed as an offence.",
+        "illustrations": []
+    },
+    {
+        "id": "section-18",
+        "section_number": "18",
+        "title": "Punishment for conspiracy, etc.",
+        "content": "Whoever conspires or attempts to commit, or advocates, abets, advises or incites, directly or knowingly facilitates the commission of, a terrorist act or any act preparatory to the commission of a terrorist act, shall be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-18A",
+        "section_number": "18A",
+        "title": "Punishment for organising of terrorist camps",
+        "content": "Whoever organises or causes to be organised any camp or camps for imparting training in terrorism shall be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-18B",
+        "section_number": "18B",
+        "title": "Punishment for recruiting of any person or persons for terrorist act",
+        "content": "Whoever recruits or causes to be recruited any person or persons for commission of a terrorist act shall be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-19",
+        "section_number": "19",
+        "title": "Punishment for harbouring, etc.",
+        "content": "Whoever voluntarily harbours or conceals, or attempts to harbour or conceal any person knowing that such person is a terrorist shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life, and shall also be liable to fine",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": [],
+        "proviso": "Provided that this section shall not apply to any case in which the harbour or concealment is by the spouse of the offender."
+    },
+    {
+        "id": "section-20",
+        "section_number": "20",
+        "title": "Punishment for being member of terrorist gang or organisation",
+        "content": "Any person who is a member of a terrorist gang or a terrorist organisation, which is involved in terrorist act, shall be punishable with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-21",
+        "section_number": "21",
+        "title": "Punishment for holding proceeds of terrorism",
+        "content": "Whoever knowingly holds any property derived or obtained from commission of any terrorist act or acquired through the terrorist fund shall be punishable with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-22",
+        "section_number": "22",
+        "title": "Punishment for threatening witness",
+        "content": "Whoever threatens any person who is a witness or any other person in whom such witness may be interested, with violence, or wrongfully restrains or confines the witness, or any other person in whom the witness may be interested, or does any other unlawful act with intent to cause any of the said acts, shall be punishable with imprisonment which may extend to three years, and shall also be liable to fine.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-22A",
+        "section_number": "22A",
+        "title": "Offences by companies",
+        "content": "Offences by companies.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Where an offence under this Act has been committed by a company, every person (including promoters of the company) who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly",
+                "proviso": "Provided that nothing contained in this sub-section shall render any such person (including promoters) liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he had exercised reasonable care to prevent the commission of such offence."
+            },
+            {
+                "number": "(2)",
+                "text": "Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of, any promoter, director, manager, secretary or other officer of the company, such promoter, director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly."
+            }
+        ],
+        "explanation": "For the purposes of this section,—\n(a) \"company\" means any body corporate and includes a firm or other association of individuals; and\n(b) \"director\", in relation to a firm, means a partner in the firm.",
+        "illustrations": []
+    },
+    {
+        "id": "section-22B",
+        "section_number": "22B",
+        "title": "Offences by societies or trusts",
+        "content": "Offences by societies or trusts.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Where an offence under this Act has been committed by a society or trust, every person (including the promoter of society or settlor of the trust) who at the time the offence was committed was in charge of, and was responsible to, the society or trust for the conduct of the business of the society or the trust, as well as the society or trust, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly",
+                "proviso": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he exercised reasonable care to prevent the commission of such offence."
+            },
+            {
+                "number": "(2)",
+                "text": "Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a society or trust and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of any promoter, director, manager, secretary, trustee or other officer of the society or trust, such promoter, director, manager, secretary, trustee or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly."
+            }
+        ],
+        "explanation": "For the purpose of this section,—\n(a) \"society\" means any body corporate registered under the Societies Registration Act, 1860 (21 of 1860) or any other State Act governing the registration of societies;\n(b) \"trust\" means any body registered under the Indian Trusts Act, 1882 (2 of 1882) or any other State Act governing the registration of trusts;\n(c) \"director\", in relation to a society or trust, means a member of its governing board other than an ex officio member representing the interests of the Central or State Government or the appropriate statutory authority.",
+        "illustrations": []
+    },
+    {
+        "id": "section-22C",
+        "section_number": "22C",
+        "title": "Punishment for offences by companies, societies or trusts",
+        "content": "Where any offence under the Act has been committed by a company or a society or a trust, as the case may be, every person (including promoter of company or trust or settlor of the trust) who at the time of the offence was either in charge or responsible for the conduct of the business shall be punishable with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life and shall also be liable with fine which shall not be less than five crore rupees and which may extend to ten crore rupees.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-23",
+        "section_number": "23",
+        "title": "Enhanced penalties",
+        "content": "Enhanced penalties.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "4",
+        "chapter_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "chapter_sub_title": "PUNISHMENT FOR TERRORIST ACTIVITIES",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "If any person with intent to aid any terrorist or terrorist organisation or a terrorist gang contravenes any provision of, or any rule made under the Explosives Act, 1884 (4 of 1884) or the Explosive Substances Act, 1908 (6 of 1908) or the Inflammable Substances Act, 1952 (20 of 1952) or the Arms Act, 1959 (54 of 1959), or is in unauthorised possession of any bomb, dynamite or hazardous explosive substance or other lethal weapon or substance capable of mass destruction or biological or chemical substance of warfare or high quality counterfeit Indian currency, he shall, notwithstanding anything contained in any of the aforesaid Acts or the rules made thereunder, be punishable with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine."
+            },
+            {
+                "number": "(2)",
+                "text": "Any person who with the intent to aid any terrorist, or a terrorist organisation or a terrorist gang, attempts to contravene or abets, or does any act preparatory to contravention of any provision of any law or rule specified in sub-section (1), shall be deemed to have contravened that provision under sub-section (1) and the provisions of that sub-section in relation to such person, have effect subject to the modification that the reference to \"imprisonment for life\" therein shall be construed as a reference to \"imprisonment for ten years\"."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-24",
+        "section_number": "24",
+        "title": "Reference to proceeds of terrorism to include any property intended to be used for terrorism",
+        "content": "In this Chapter, unless the context otherwise requires, all references to \"proceeds of terrorism\" shall include any property intended to be used for terrorism.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-24A",
+        "section_number": "24A",
+        "title": "Forfeiture of proceeds of terrorism",
+        "content": "Forfeiture of proceeds of terrorism.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "No person shall hold or be in possession of any proceeds of terrorism."
+            },
+            {
+                "number": "(2)",
+                "text": "Proceeds of terrorism, whether held by a terrorist organisation or terrorist gang or by any other person and whether or not such terrorist or other person is prosecuted or convicted for any offence under Chapter IV or Chapter VI, shall be liable to be forfeited to the Central Government or the State Government, as the case may be, in the manner provided under this Chapter."
+            },
+            {
+                "number": "(3)",
+                "text": "Where proceedings have been commenced under this section, the court may pass an order directing attachment or forfeiture, as the case may be, of property equivalent to, or, the value of the proceeds of terrorism involved in the offence."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-25",
+        "section_number": "25",
+        "title": "Powers of investigating officer and Designated Authority and appeal against order of Designated Authority",
+        "content": "Powers of investigating officer and Designated Authority and appeal against order of Designated Authority.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "If an officer investigating an offence committed under Chapter IV or Chapter VI, has reason to believe that any property in relation to which an investigation is being conducted, represents proceeds of terrorism, he shall, with the prior approval in writing of the Director General of the Police of the State in which such property is situated, make an order seizing such property and where it is not practicable to seize such property, make an order of attachment directing that such property shall not be transferred or otherwise dealt with except with the prior permission of the officer making such order, or of the Designated Authority before whom the property seized or attached is produced and a copy of such order shall be served on the person concerned."
+            },
+            {
+                "number": "(2)",
+                "text": "The investigating officer shall duly inform the Designated Authority within forty-eight hours of the seizure or attachment of such property."
+            },
+            {
+                "number": "(3)",
+                "text": "The Designated Authority before whom the seized or attached property is produced shall either confirm or revoke the order of seizure or attachment so issued within a period of sixty days from the date of such production",
+                "proviso": "Provided that an opportunity of making a representation by the person whose property is being seized or attached shall be given."
+            },
+            {
+                "number": "(4)",
+                "text": "In the case of immovable property attached by the investigating officer, it shall be deemed to have been produced before the Designated Authority, when the investigating officer notifies his report and places it at the disposal of the Designated Authority."
+            },
+            {
+                "number": "(5)",
+                "text": "The investigating officer may seize and detain any cash to which this Chapter applies if he has reasonable grounds for suspecting that—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "it is intended to be used for the purposes of terrorism"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "it forms the whole or part of the resources of a terrorist organisation"
+                    }
+                ],
+                "proviso": "Provided that the cash seized under this sub-section by the investigating officer shall be released within a period of forty-eight hours beginning with the time when it is seized unless the matter involving the cash is before the Designated Authority and such Authority passes an order allowing its retention beyond forty-eight hours."
+            },
+            {
+                "number": "(6)",
+                "text": "Any person aggrieved by an order made by the Designated Authority may prefer an appeal to the court within a period of thirty days from the date of receipt of the order, and the court may either confirm the order of attachment of property or seizure so made or revoke such order and release the property."
+            }
+        ],
+        "explanation": "For the purposes of this sub-section, \"cash\" means—\n(a) coins or notes in any currency;\n(b) postal orders;\n(c) traveller's cheques;\n(ca) credit or debit cards or cards that serve a similar purpose;\n(d) banker's drafts; and\n(e) such other monetary instruments as the Central Government or, as the case may be, the State Government may specify by an order made in writing.",
+        "illustrations": []
+    },
+    {
+        "id": "section-26",
+        "section_number": "26",
+        "title": "Court to order forfeiture of proceeds of terrorism",
+        "content": "Where any property is seized or attached on the ground that it constitutes proceeds of terrorism and the court confirms the order in this regard under sub-section (6) of section 25, it may order forfeiture of such property, whether or not the person from whose possession it is seized or attached, is prosecuted in a court for an offence under Chapter IV or Chapter VI.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-27",
+        "section_number": "27",
+        "title": "Issue of show cause notice before forfeiture of proceeds of terrorism",
+        "content": "Issue of show cause notice before forfeiture of proceeds of terrorism.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "No order forfeiting any proceeds of terrorism shall be made under section 26 unless the person holding or in possession of such proceeds is given a notice in writing informing him of the grounds on which it is proposed to forfeit the proceeds of terrorism and such person is given an opportunity of making a representation in writing within such reasonable time as may be specified in the notice against the grounds of forfeiture and is also given a reasonable opportunity of being heard in the matter."
+            },
+            {
+                "number": "(2)",
+                "text": "No order of forfeiture shall be made under sub-section (1), if such person establishes that he is a bona fide transferee of such proceeds for value without knowing that they represent proceeds of terrorism."
+            },
+            {
+                "number": "(3)",
+                "text": "It shall be competent for the court to make an order in respect of property seized or attached,—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "directing it to be sold if it is a perishable property and the provisions of section 459 of the Code shall, as nearly as may be practicable, apply to the net proceeds of such sale"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "nominating any officer of the Central Government or the State Government, in the case of any other property, to perform the function of the Administrator of such property subject to such conditions as may be specified by the court"
+                    }
+                ]
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-28",
+        "section_number": "28",
+        "title": "Appeal",
+        "content": "Appeal.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Any person aggrieved by an order of forfeiture under section 26 may, within one month from the date of the receipt of such order, appeal to the High Court within whose jurisdiction, the court, which passed the order appealed against, is situated."
+            },
+            {
+                "number": "(2)",
+                "text": "Where an order under section 26 is modified or annulled by the High Court or where in a prosecution instituted for any offence under Chapter IV or Chapter VI, the person against whom an order of forfeiture has been made under section 26 is acquitted, such property shall be returned to him and in either case if it is not possible for any reason to return the forfeited property, such person shall be paid the price therefor as if the property had been sold to the Central Government with reasonable interest calculated from the day of seizure of the property and such price shall be determined in the manner prescribed."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-29",
+        "section_number": "29",
+        "title": "Order of forfeiture not to Interfere with other punishments",
+        "content": "The order of forfeiture made under this Chapter by the court, shall not prevent the infliction of any other punishment to which the person affected thereby is liable under Chapter IV or Chapter VI.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-30",
+        "section_number": "30",
+        "title": "Claims by third party",
+        "content": "Claims by third party.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Where any claim is preferred or any objection is made to the seizure or attachment of any property under section 25 on the ground that such property is not liable to seizure or attachment, the Designated Authority before whom such property is produced, shall proceed to investigate the claim or objection",
+                "proviso": "Provided that no such investigation shall be made where the Designated Authority considers that the claim or objection is designed to cause unnecessary delay."
+            },
+            {
+                "number": "(2)",
+                "text": "Where an appeal has been preferred under sub-section (6) of section 25 and any claimant or objector establishes that the property specified in the notice issued under section 27 is not liable to be forfeited under this Chapter, the said notice shall be withdrawn or modified accordingly."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-31",
+        "section_number": "31",
+        "title": "Powers of Designated Authority",
+        "content": "The Designated Authority, acting under the provisions of this Chapter, shall have all the powers of a civil court required for making a full and fair inquiry into the matter before it.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-32",
+        "section_number": "32",
+        "title": "Certain transfers to be null and void",
+        "content": "Where, after the issue of an order under section 25 or issue of a notice under section 27, any property referred to in the said order or notice is transferred by any mode whatsoever, such transfer shall, for the purpose of the proceedings under this Chapter, be ignored and if such property is subsequently forfeited, the transfer of such property shall be deemed to be null and void.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-33",
+        "section_number": "33",
+        "title": "Forfeiture of property of certain persons",
+        "content": "Forfeiture of property of certain persons.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Where any person is accused of an offence under Chapter IV or Chapter VI, it shall be open to the court to pass an order that all or any of the properties, movable or immovable or both, belonging to him, shall, during the period of such trial, be attached, if not already attached under this Chapter."
+            },
+            {
+                "number": "(2)",
+                "text": "Where a person has been convicted of any offence punishable under Chapter IV or Chapter VI, the court may, in addition to awarding any punishment, by order in writing, declare that any property, movable or immovable or both, belonging to the accused and specified in the order, shall stand forfeited to the Central Government or the State Government, as the case may be, free from all encumbrances."
+            },
+            {
+                "number": "(3)",
+                "text": "Where any person is accused of an offence concerning high quality counterfeit Indian currency, the court may pass an order directing attachment or forfeiture, as the case may be, of property equivalent to the value of such high quality counterfeit Indian currency involved in the offence including the face value of such currency which are not defined to be of high quality, but are part of the common seizure along with the high quality counterfeit Indian currency."
+            },
+            {
+                "number": "(4)",
+                "text": "Where a person is accused of an offence punishable under Chapter IV or Chapter VI, the court may pass an order directing attachment or forfeiture, as the case may be, of property equivalent to or the value of the proceeds of terrorism involved in the offence."
+            },
+            {
+                "number": "(5)",
+                "text": "Where any person is accused of an offence under Chapter IV or Chapter VI, it shall be open to the court to pass an order that all or any of the property, movable or immovable or both, belonging to him shall, where the trial under the Act cannot be concluded on account of the death of the accused or being declared a proclaimed offender or for any other reason, be confiscated on the basis of material evidence produced before the court."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-34",
+        "section_number": "34",
+        "title": "Company to transfer shares to Government",
+        "content": "Where any share in a company stand forfeited to the Central Government or the State Government, as the case may be, under this Chapter, then, the company shall, on receipt of the order of the court, notwithstanding anything contained in the Companies Act, 1956 (1 of 1956), or the articles of association of the company, forthwith register the Central Government or the State Government, as the case may be, as the transferee of such share.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "5",
+        "chapter_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "chapter_sub_title": "FORFEITURE OF PROCEEDS OF TERRORISM OR ANY PROPERTY INTENDED TO BE USED",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-35",
+        "section_number": "35",
+        "title": "Amendment of Schedule, etc.",
+        "content": "Amendment of Schedule, etc.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "6",
+        "chapter_title": "TERRORIST ORGANISATIONS",
+        "chapter_sub_title": "TERRORIST ORGANISATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "The Central Government may, by notification, in the Official Gazette,—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "add an organisation to the First Schedule"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "add also an organisation to the First Schedule, which is identified as a terrorist organisation in a resolution adopted by the Security Council under Chapter VII of the Charter of the United Nations, to combat international terrorism"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "remove an organisation from the First Schedule"
+                    },
+                    {
+                        "clause": "(d)",
+                        "text": "amend the First Schedule in some other way"
+                    }
+                ]
+            },
+            {
+                "number": "(2)",
+                "text": "The Central Government shall exercise its power under clause (a) of sub-section (1) in respect of an organisation only if it believes that it is involved in terrorism."
+            },
+            {
+                "number": "(3)",
+                "text": "For the purposes of sub-section (2), an organisation shall be deemed to be involved in terrorism if it—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "commits or participates in acts of terrorism"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "prepares for terrorism"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "promotes or encourages terrorism"
+                    },
+                    {
+                        "clause": "(d)",
+                        "text": "is otherwise involved in terrorism"
+                    }
+                ]
+            },
+            {
+                "number": "(4)",
+                "text": "The Central Government may, by notification in the Official Gazette, add to or remove or amend the Second Schedule or Third Schedule and thereupon the Second Schedule or the Third Schedule, as the case may be, shall be deemed to have been amended accordingly."
+            },
+            {
+                "number": "(5)",
+                "text": "Every notification issued under sub-section (1) or sub-section (4) shall, as soon as may be after it is issued, be laid before Parliament."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-36",
+        "section_number": "36",
+        "title": "Denotification of a terrorist organisation",
+        "content": "Denotification of a terrorist organisation.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "6",
+        "chapter_title": "TERRORIST ORGANISATIONS",
+        "chapter_sub_title": "TERRORIST ORGANISATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "An application may be made to the Central Government for the exercise of its power under clause (c) of sub-section (1) of section 35 to remove an organisation from the Schedule."
+            },
+            {
+                "number": "(2)",
+                "text": "An application under sub-section (1) may be made by—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "the organisation"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "any person affected by inclusion of the organisation in the Schedule as a terrorist organisation"
+                    }
+                ]
+            },
+            {
+                "number": "(3)",
+                "text": "The Central Government may prescribe the procedure for admission and disposal of an application made under this section."
+            },
+            {
+                "number": "(4)",
+                "text": "Where an application under sub-section (1) has been rejected, the applicant may apply for a review to the Review Committee constituted by the Central Government under sub-section (1) of section 37 within one month from the date of receipt of the order of such refusal by the applicant."
+            },
+            {
+                "number": "(5)",
+                "text": "The Review Committee may allow an application for review against rejection to remove an organisation from the Schedule, if it considers that the decision to reject was flawed when considered in the light of the principles applicable on an application for judicial review."
+            },
+            {
+                "number": "(6)",
+                "text": "Where the Review Committee allows review under sub-section (5) by or in respect of an organisation, it may make an order to such effect."
+            },
+            {
+                "number": "(7)",
+                "text": "Where an order is made under sub-section (6), the Central Government shall, as soon as the certified copy of the order is received by it, make an order removing the organisation from the Schedule."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-37",
+        "section_number": "37",
+        "title": "Review Committees",
+        "content": "Review Committees.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "6",
+        "chapter_title": "TERRORIST ORGANISATIONS",
+        "chapter_sub_title": "TERRORIST ORGANISATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "The Central Government shall constitute one or more Review Committees for the purposes of section 36."
+            },
+            {
+                "number": "(2)",
+                "text": "Every such Committee shall consist of a Chairperson and such other members not exceeding three and possessing such qualifications as may be prescribed."
+            },
+            {
+                "number": "(3)",
+                "text": "A Chairperson of the Committee shall be a person who is, or has been, a Judge of a High Court, who shall be appointed by the Central Government and in the case of appointment of a sitting Judge, the concurrence of the Chief Justice of the concerned High Court shall be obtained."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-38",
+        "section_number": "38",
+        "title": "Offence relating to membership of a terrorist organisation",
+        "content": "Offence relating to membership of a terrorist organisation.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "6",
+        "chapter_title": "TERRORIST ORGANISATIONS",
+        "chapter_sub_title": "TERRORIST ORGANISATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "A person, who associates himself, or professes to be associated, with a terrorist organisation with intention to further its activities, commits an offence relating to membership of a terrorist organisation",
+                "proviso": "Provided that this sub-section shall not apply where the person charged is able to prove—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "that the organisation was not declared as a terrorist organisation at the time when he became a member or began to profess to be a member"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "that he has not taken part in the activities of the organisation at any time during its inclusion in the Schedule as a terrorist organisation"
+                    }
+                ]
+            },
+            {
+                "number": "(2)",
+                "text": "A person, who commits the offence relating to membership of a terrorist organisation under sub-section (1), shall be punishable with imprisonment for a term not exceeding ten years, or with fine, or with both."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-39",
+        "section_number": "39",
+        "title": "Offence relating to support given to a terrorist organisation",
+        "content": "Offence relating to support given to a terrorist organisation.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "6",
+        "chapter_title": "TERRORIST ORGANISATIONS",
+        "chapter_sub_title": "TERRORIST ORGANISATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "A person commits the offence relating to support given to a terrorist organisation,—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "who, with intention to further the activity of a terrorist organisation,—",
+                        "subclauses": [
+                            {
+                                "number": "(i)",
+                                "text": "invites support for the terrorist organization"
+                            },
+                            {
+                                "number": "(ii)",
+                                "text": "the support is not or is not restricted to provide money or other property within the meaning of section 40"
+                            }
+                        ]
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "who, with intention to further the activity of a terrorist organisation, arranges, manages or assists in arranging or managing a meeting which he knows is—",
+                        "subclauses": [
+                            {
+                                "number": "(i)",
+                                "text": "to support the terrorist organization"
+                            },
+                            {
+                                "number": "(ii)",
+                                "text": "to further the activity of the terrorist organization"
+                            },
+                            {
+                                "number": "(iii)",
+                                "text": "to be addressed by a person who associates or professes to be associated with the terrorist organisation"
+                            }
+                        ]
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "who, with intention to further the activity of a terrorist organisation, addresses a meeting for the purpose of encouraging support for the terrorist organisation or to further its activity"
+                    }
+                ]
+            },
+            {
+                "number": "(2)",
+                "text": "A person, who commits the offence relating to support given to a terrorist organisation under sub-section (1) shall be punishable with imprisonment for a term not exceeding ten years, or with fine, or with both."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-40",
+        "section_number": "40",
+        "title": "Offence of raising fund for a terrorist organisation",
+        "content": "Offence of raising fund for a terrorist organisation.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "6",
+        "chapter_title": "TERRORIST ORGANISATIONS",
+        "chapter_sub_title": "TERRORIST ORGANISATIONS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "A person commits the offence of raising fund for a terrorist organisation, who, with intention to further the activity of a terrorist organisation,—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "invites another person to provide money or other property, and intends that it should be used, or has reasonable cause to suspect that it might be used, for the purposes of terrorism"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "receives money or other property, and intends that it should be used, or has reasonable cause to suspect that it might be used, for the purposes of terrorism"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "provides money or other property, and knows, or has reasonable cause to suspect, that it would or might be used for the purposes of terrorism"
+                    }
+                ]
+            },
+            {
+                "number": "(2)",
+                "text": "A person, who commits the offence of raising fund for a terrorist organisation under sub-section (1), shall be punishable with imprisonment for a term not exceeding fourteen years, or with fine, or with both."
+            }
+        ],
+        "explanation": "For the purposes of this sub-section, a reference to provide money or other property includes—\n(a) of its being given, lent or otherwise made available, whether or not for consideration; or\n(b) raising, collecting or providing funds through production or smuggling or circulation of high quality counterfeit Indian currency.",
+        "illustrations": []
+    },
+    {
+        "id": "section-41",
+        "section_number": "41",
+        "title": "Continuance of association",
+        "content": "An association shall not be deemed to have ceased to exist by reason only of any formal act of its dissolution or change of name but shall be deemed to continue so long as any actual combination for the purposes of such association continues between any members thereof.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-42",
+        "section_number": "42",
+        "title": "Power to delegate",
+        "content": "The Central Government may, by notification in the Official Gazette, direct that all or any of the powers which may be exercised by it under section 7, or section 8, or both, shall, in such circumstances and under such conditions, if any, as may be specified in the notification, be exercised also by any State Government and the State Government may, with the previous approval of the Central Government, by order in writing, direct that any power which has been directed to be exercised by it shall, in such circumstances and under such conditions, if any, as may be specified in the direction, be exercised by any person subordinate to the State Government as may be specified therein.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-43",
+        "section_number": "43",
+        "title": "Officers competent to investigate offences under Chapters IV and VI",
+        "content": "Notwithstanding anything contained in the Code, no police officer,—",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "clauses": [
+            {
+                "clause": "(a)",
+                "text": "in the case of the Delhi Special Police Establishment, constituted under sub-section (1) of section 2 of the Delhi Special Police Establishment Act, 1946 (25 of 1946), below the rank of a Deputy Superintendent of Police or a police officer of equivalent rank"
+            },
+            {
+                "clause": "(b)",
+                "text": "in the metropolitan areas of Mumbai, Kolkata, Chennai and Ahmedabad and any other metropolitan area notified as such under sub-section (1) of section 8 of the Code, below the rank of an Assistant Commissioner of Police"
+            },
+            {
+                "clause": "(c)",
+                "text": "in any case not relatable to clause (a) or clause (b), below the rank of a Deputy Superintendent of Police or a police officer of an equivalent rank"
+            }
+        ],
+        "additional_text": "shall investigate any offence punishable under Chapter IV or VI.",
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-43A",
+        "section_number": "43A",
+        "title": "Power to arrest, search, etc.",
+        "content": "Any officer of the Designated Authority empowered in this behalf, by general or special order of the Central Government or the State Government, as the case may be, knowing of a design to commit any offence under this Act or has reason to believe from personal knowledge or information given by any person and taken in writing that any person has committed an offence punishable under this Act or from any document, article or any other thing which may furnish evidence of the commission of such offence or from any illegally acquired property or any document or other article which may furnish evidence of holding any illegally acquired property which is liable for seizure or freezing or forfeiture under this Chapter is kept or concealed in any building, conveyance or place, may authorise any officer subordinate to him to arrest such a person or search such building, conveyance or place whether by day or by night or himself arrest such a person or search a such building, conveyance or place.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-43B",
+        "section_number": "43B",
+        "title": "Procedure of arrest, seizure, etc.",
+        "content": "Procedure of arrest, seizure, etc.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Any officer arresting a person under section 43A shall, as soon as may be, inform him of the grounds for such arrest."
+            },
+            {
+                "number": "(2)",
+                "text": "Every person arrested and article seized under section 43A shall be forwarded without unnecessary delay to the officer-in-charge of the nearest police station."
+            },
+            {
+                "number": "(3)",
+                "text": "The authority or officer to whom any person or article is forwarded under sub-section (2) shall, with all convenient dispatch, take such measures as may be necessary in accordance with the provisions of the Code."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-43C",
+        "section_number": "43C",
+        "title": "Application of provisions of Code",
+        "content": "The provisions of the Code shall apply, insofar as they are not inconsistent with the provisions of this Act, to all arrests, searches and seizures made under this Act.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-43D",
+        "section_number": "43D",
+        "title": "Modified application of certain provisions of the Code",
+        "content": "Modified application of certain provisions of the Code.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Notwithstanding anything contained in the Code or any other law, every offence punishable under this Act shall be deemed to be a cognizable offence within the meaning of clause (c) of section 2 of the Code, and \"cognizable case\" as defined in that clause shall be construed accordingly."
+            },
+            {
+                "number": "(2)",
+                "text": "Section 167 of the Code shall apply in relation to a case involving an offence punishable under this Act subject to the modification that in sub-section (2),—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "the references to \"fifteen days\", \"ninety days\" and \"sixty days\", wherever they occur, shall be construed as references to \"thirty days\", \"ninety days\" and \"ninety days\" respectively"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "after the proviso, the following provisos shall be inserted, namely:—",
+                        "provisos": [
+                            "Provided further that if it is not possible to complete the investigation within the said period of ninety days, the Court may if it is satisfied with the report of the Public Prosecutor indicating the progress of the investigation and the specific reasons for the detention of the accused beyond the said period of ninety days, extend the said period up to one hundred and eighty days",
+                            "Provided also that if the police officer making the investigation under this Act, requests, for the purposes of investigation, for police custody from judicial custody of any person in judicial custody, he shall file an affidavit stating the reasons for doing so and shall also explain the delay, if any, for requesting such police custody."
+                        ]
+                    }
+                ]
+            },
+            {
+                "number": "(3)",
+                "text": "Section 268 of the Code shall apply in relation to a case involving an offence punishable under this Act subject to the modification that—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "the reference in sub-section (1) thereof—",
+                        "subclauses": [
+                            {
+                                "number": "(i)",
+                                "text": "to \"the State Government\" shall be construed as a reference to \"the Central Government or the State Government.\""
+                            },
+                            {
+                                "number": "(ii)",
+                                "text": "to \"order of the State Government\" shall be construed as a reference to \"order of the Central Government or the State Government, as the case may be\""
+                            }
+                        ]
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "the reference in sub-section (2) thereof, to \"the State Government\" shall be construed as a reference to \"the Central Government or the State Government, as the case may be\""
+                    }
+                ]
+            },
+            {
+                "number": "(4)",
+                "text": "Nothing in section 438 of the Code shall apply in relation to any case involving the arrest of any person accused of having committed an offence punishable under this Act."
+            },
+            {
+                "number": "(5)",
+                "text": "Notwithstanding anything contained in the Code, no person accused of an offence punishable under Chapters IV and VI of this Act shall, if in custody, be released on bail or on his own bond unless the Public Prosecutor has been given an opportunity of being heard on the application for such release",
+                "proviso": "Provided that such accused person shall not be released on bail or on his own bond if the Court, on a perusal of the case diary or the report made under section 173 of the Code is of the opinion that there are reasonable grounds for believing that the accusation against such person is prima facie true."
+            },
+            {
+                "number": "(6)",
+                "text": "The restrictions on granting of bail specified in sub-section (5) is in addition to the restrictions under the Code or any other law for the time being in force on granting of bail."
+            },
+            {
+                "number": "(7)",
+                "text": "Notwithstanding anything contained in sub-sections (5) and (6), no bail shall be granted to a person accused of an offence punishable under this Act, if he is not an Indian citizen and has entered the country unauthorisedly or illegally except in very exceptional circumstances and for reasons to be recorded in writing."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-43E",
+        "section_number": "43E",
+        "title": "Presumption as to offence under section 15",
+        "content": "In a prosecution for an offence under section 15, if it is proved—",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "clauses": [
+            {
+                "clause": "(a)",
+                "text": "that the arms or explosives or any other substances specified in the said section were recovered from the possession of the accused and there is reason to believe that such arms or explosives or other substances of a similar nature were used in the commission of such offence"
+            },
+            {
+                "clause": "(b)",
+                "text": "that by the evidence of the expert the finger-prints of the accused or any other definitive evidence suggesting the involvement of the accused in the offence were found at the site of the offence or on anything including arms and vehicles used in connection with the commission of such offence"
+            }
+        ],
+        "additional_text": "the Court shall presume, unless the contrary is shown, that the accused has committed such offence.",
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-43F",
+        "section_number": "43F",
+        "title": "Obligation to furnish information",
+        "content": "Obligation to furnish information.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Notwithstanding anything contained in any other law, the officer investigating any offence under this Act, with the prior approval in writing of an officer not below the rank of a Superintendent of Police, may require any officer or authority of the Central Government or a State Government or a local authority or a bank, or a company, or a firm or any other institution, establishment, organisation or any individual to furnish information in his or its possession in relation to such offence, on points or matters, where the investigating officer has reason to believe that such information will be useful for, or relevant to, the purposes of this Act."
+            },
+            {
+                "number": "(2)",
+                "text": "The failure to furnish the information called for under sub-section (1), or deliberately furnishing false information shall be punishable with imprisonment for a term which may extend to three years or with fine or with both."
+            },
+            {
+                "number": "(3)",
+                "text": "Notwithstanding anything contained in the Code, an offence under sub-section (2) shall be tried as a summary case and the procedure prescribed in Chapter XXI of the said Code [except sub-section (2) of section 262] shall be applicable thereto."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-44",
+        "section_number": "44",
+        "title": "Protection of witnesses",
+        "content": "Protection of witnesses.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Notwithstanding anything contained in the Code, the proceedings under this Act may, for reasons to be recorded in writing, be held in camera if the court so desires."
+            },
+            {
+                "number": "(2)",
+                "text": "A court, if on an application made by a witness in any proceeding before it or by the Public Prosecutor in relation to such witness or on its own motion, is satisfied that the life of such witness is in danger, it may, for reasons to be recorded in writing, take such measures as it deems fit for keeping the identity and address of such witness secret."
+            },
+            {
+                "number": "(3)",
+                "text": "In particular, and without prejudice to the generality of the provisions of sub-section (2), the measures which a court may take under that sub-section may include—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "the holding of the proceedings at a place to be decided by the court"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "the avoiding of the mention of the name and address of the witness in its orders or judgments or in any records of the case accessible to public"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "the issuing of any directions for securing that the identity and address of the witness are not disclosed"
+                    },
+                    {
+                        "clause": "(d)",
+                        "text": "a decision that it is in the public interest to order that all or any of the proceedings pending before such a court shall not be published in any manner"
+                    }
+                ]
+            },
+            {
+                "number": "(4)",
+                "text": "Any person who contravenes any decision or direction issued under sub-section (3), shall be punishable with imprisonment for a term which may extend to three years, and shall also be liable to fine."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-45",
+        "section_number": "45",
+        "title": "Cognizance of offences",
+        "content": "Cognizance of offences.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "No court shall take cognizance of any offence—",
+                "clauses": [
+                    {
+                        "clause": "(i)",
+                        "text": "under Chapter III without the previous sanction of the Central Government or any officer authorised by the Central Government in this behalf"
+                    },
+                    {
+                        "clause": "(ii)",
+                        "text": "under Chapter IV and VI without the previous sanction of the Central Government or, as the case may be, the State Government, and where such offence is committed against the Government of a foreign country without the previous sanction of the Central Government"
+                    }
+                ]
+            },
+            {
+                "number": "(2)",
+                "text": "Sanction for prosecution under sub-section (1) shall be given within such time as may be prescribed only after considering the report of such authority appointed by the Central Government or, as the case may be, the State Government which shall make an independent review of the evidence gathered in the course of investigation and make a recommendation, within such time as may be prescribed, to the Central Government or, as the case may be, the State Government."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-46",
+        "section_number": "46",
+        "title": "Admissibility of evidence collected through the interception of communications",
+        "content": "Notwithstanding anything contained in the Indian Evidence Act, 1872 (1 of 1872) or any other law for the time being in force, the evidence collected through the interception of wire, electronic or oral communication under the provisions of the Indian Telegraph Act, 1885 (13 of 1885) or the Information Technology Act, 2000 (21 of 2000) or any other law for the time being in force, shall be admissible as evidence against the accused in the court during the trial of a case",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "provisos": [
+            "Provided that the contents of any wire, electronic or oral communication intercepted or evidence derived therefrom shall not be received in evidence or otherwise disclosed in any trial, hearing or other proceeding in any court unless each accused has been furnished with a copy of the order of the competent authority under the aforesaid law, under which the interception was directed, not less than ten days before trial, hearing or proceeding",
+            "Provided further that the period of ten days may be waived by the judge trying the matter, if he comes to the conclusion that it was not possible to furnish the accused with such order ten days before the trial, hearing or proceeding and that the accused shall not be prejudiced by the delay in receiving such order."
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-47",
+        "section_number": "47",
+        "title": "Bar of jurisdiction",
+        "content": "Bar of jurisdiction.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Save as otherwise expressly provided in this Act, no proceeding taken under this Act by the Central Government or the District Magistrate or any officer authorised in this behalf by the Central Government or the District Magistrate, shall be called in question in any civil court in any suit or application or by way of appeal or revision, and no injunction shall be granted by any civil court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act."
+            },
+            {
+                "number": "(2)",
+                "text": "Notwithstanding anything contained in sub-section (1), no civil court or other authority shall have, or be entitled to exercise, any jurisdiction, powers or authority in relation to the matters referred to in section 36."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-48",
+        "section_number": "48",
+        "title": "Effect of Act and rules, etc., inconsistent with other enactments",
+        "content": "The provisions of this Act or any rule or order made thereunder shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act or any instrument having effect by virtue of any enactment other than this Act.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-49",
+        "section_number": "49",
+        "title": "Protection of action taken in good faith",
+        "content": "No suit, prosecution or other legal proceeding shall lie against—",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "clauses": [
+            {
+                "clause": "(a)",
+                "text": "the Central Government or a State Government or any officer or authority of the Central Government or State Government or District Magistrate or any officer authorised in this behalf by the Government or the District Magistrate or any other authority on whom powers have been conferred under this Act, for anything which is in good faith done or purported to be done in pursuance of this Act or any rule or order made thereunder"
+            },
+            {
+                "clause": "(b)",
+                "text": "any serving or retired member of the armed forces or para-military forces in respect of any action taken or purported to be taken by him in good faith, in the course of any operation directed towards combating terrorism"
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-50",
+        "section_number": "50",
+        "title": "Saving",
+        "content": "Nothing in this Act shall affect the jurisdiction exercisable by, or the procedure applicable to, any court or other authority under any law relating to the navy, army or air force or other armed forces of the Union.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-51",
+        "section_number": "51",
+        "title": "Impounding of passport and arms licence of person charge sheeted under the Act",
+        "content": "Notwithstanding anything contained in any other law for the time being in force, the passport and the arms licence of a person, who is charge-sheeted for having committed any offence under this Act, shall be deemed to have been impounded for such period as the court may deem fit.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-51A",
+        "section_number": "51A",
+        "title": "Certain powers of the Central Government",
+        "content": "For the prevention of, and for coping with terrorist activities, the Central Government shall have power to—",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [],
+        "clauses": [
+            {
+                "clause": "(a)",
+                "text": "freeze, seize or attach funds and other financial assets or economic resources held by, on behalf of or at the direction of the individuals or entities listed in the Schedule to the Order, or any other person engaged in or suspected to be engaged in terrorism"
+            },
+            {
+                "clause": "(b)",
+                "text": "prohibit any individual or entity from making any funds, financial assets or economic resources or related services available for the benefit of the individuals or entities listed in the Schedule to the Order or any other person engaged in or suspected to be engaged in terrorism"
+            },
+            {
+                "clause": "(c)",
+                "text": "prevent the entry into or the transit through India of individuals listed in the Schedule to the Order or any other person engaged in or suspected to be engaged in terrorism"
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-52",
+        "section_number": "52",
+        "title": "Power to make rules",
+        "content": "Power to make rules.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act."
+            },
+            {
+                "number": "(2)",
+                "text": "In particular, and without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:—",
+                "clauses": [
+                    {
+                        "clause": "(a)",
+                        "text": "the service of notices or orders issued or made under this Act and the manner in which such notices or orders may be served, where the person to be served is a corporation, company, bank or other association"
+                    },
+                    {
+                        "clause": "(b)",
+                        "text": "the procedure to be followed by the Tribunal or a District Judge in holding any inquiry or disposing of any application under this Act"
+                    },
+                    {
+                        "clause": "(c)",
+                        "text": "determination of the price of the forfeited property under sub-section (2) of section 28"
+                    },
+                    {
+                        "clause": "(d)",
+                        "text": "the procedure for admission and disposal of an application under sub-section (3) of section 36"
+                    },
+                    {
+                        "clause": "(e)",
+                        "text": "the qualifications of the members of the Review Committee under sub-section (2) of section 37"
+                    },
+                    {
+                        "clause": "(ee)",
+                        "text": "the time within which sanction for prosecution and recommendation to the Central Government shall be given under sub-section (2) of section 45"
+                    },
+                    {
+                        "clause": "(f)",
+                        "text": "any other matter which is required to be, or may be, prescribed"
+                    }
+                ]
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    },
+    {
+        "id": "section-53",
+        "section_number": "53",
+        "title": "Orders and rules to be laid before both Houses of Parliament",
+        "content": "Orders and rules to be laid before both Houses of Parliament.",
+        "source": "UAP",
+        "act_name": "THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+        "chapter_number": "7",
+        "chapter_title": "MISCELLANEOUS",
+        "chapter_sub_title": "MISCELLANEOUS",
+        "subsections": [
+            {
+                "number": "(1)",
+                "text": "Every order and every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the order or rule or both Houses agree that the order or rule should not be made, the order or rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that order or rule."
+            },
+            {
+                "number": "(2)",
+                "text": "The Order referred to in entry 33 of the Schedule and every amendment made to that Order shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of 30 days which may be comprised in one session or in two or more successive sessions."
+            }
+        ],
+        "explanation": null,
+        "illustrations": []
+    }
+] 

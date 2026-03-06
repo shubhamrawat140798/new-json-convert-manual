@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text → JSON Converter</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="app-header">
+        <div>
+          <h1>Manual Text → JSON</h1>
+          <p class="subtitle">
+            Paste or type structured text (e.g. <code>name: John</code>) and instantly
+            convert it to JSON.
+          </p>
+        </div>
+        <div class="doc-loader">
+          <div class="field">
+            <label for="docSelect">Open existing JSON (from <code>doc</code> folder)</label>
+            <select id="docSelect">
+              <option value="">Select an Act JSON…</option>
+              <option value="BNSS_ACT.json">BNSS_ACT</option>
+              <option value="BSA_ACT.json">BSA_ACT</option>
+              <option value="IPC_ACT.json">IPC_ACT</option>
+              <option value="BNS_ACT.json">BNS_ACT</option>
+              <option value="CCrP_ACT.json">CCrP_ACT</option>
+              <option value="MV_ACT.json">MV_ACT</option>
+              <option value="ANTI_HIJACKING_ACT.json">ANTI_HIJACKING_ACT</option>
+              <option value="ARMS_ACT.json">ARMS_ACT</option>
+              <option value="SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_MARITIME_NAVIGATION_AND_FIXED_PLATFORMS_ON_CONTINENTAL_SHELF_ACT.json">
+                SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_MARITIME_NAVIGATION...
+              </option>
+              <option value="WEAPONS_OF_MASS_DESTRUCTION_AND_THEIR_DELIVERY_SYSTEMS_PROHIBITION_OF_UNLAWFUL_ACTIVITIES_ACT.json">
+                WEAPONS_OF_MASS_DESTRUCTION_AND_THEIR_DELIVERY_SYSTEMS...
+              </option>
+              <option value="SAARC_CONVENTION_SUPPRESSION_OF_TERRORISM_ACT.json">
+                SAARC_CONVENTION_SUPPRESSION_OF_TERRORISM_ACT
+              </option>
+              <option value="SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_CIVIL_AVIATION_ACT.json">
+                SUPPRESSION_OF_UNLAWFUL_ACTS_AGAINST_SAFETY_OF_CIVIL_AVIATION_ACT
+              </option>
+              <option value="ATOMIC_ENERGY_ACT.json">ATOMIC_ENERGY_ACT</option>
+              <option value="EXPLOSIVE_SUBSTANCES_ACT.json">EXPLOSIVE_SUBSTANCES_ACT</option>
+              <option value="IT_ACT.json">IT_ACT</option>
+              <option value="NIA_ACT.json">NIA_ACT</option>
+              <option value="UAP_ACT.json">UAP_ACT</option>
+            </select>
+          </div>
+          <button id="loadDocBtn" class="ghost-button" type="button">
+            Load JSON
+          </button>
+        </div>
+      </header>
+
+      <main class="app-main">
+        <section class="panel panel-input">
+          <div class="panel-header">
+            <h2>Input text</h2>
+            <button id="clearInputBtn" class="ghost-button" type="button">
+              Clear
+            </button>
+          </div>
+          <textarea
+            id="inputText"
+            placeholder="Example:
+name: John Doe
+age: 30
+isActive: true
+tags: red, green, blue
+
+address.street: 123 Main St
+address.city: New York"
+          ></textarea>
+
+          <div class="options-grid">
+            <div class="field">
+              <label for="pairSeparator">Key / value separator</label>
+              <input id="pairSeparator" type="text" value=":" maxlength="3" />
+            </div>
+            <div class="field">
+              <label for="entrySeparator">Line separator</label>
+              <select id="entrySeparator">
+                <option value="newline">New line</option>
+                <option value="semicolon">Semicolon (;)</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="rootType">Root type</label>
+              <select id="rootType">
+                <option value="object">Object</option>
+                <option value="array">Array of objects</option>
+              </select>
+            </div>
+          </div>
+
+          <button id="convertBtn" class="primary-button" type="button">
+            Convert to JSON
+          </button>
+
+          <p class="hint">
+            Lines without a separator will be ignored. Values that look like numbers,
+            booleans, or <code>null</code> are automatically typed.
+          </p>
+        </section>
+
+        <section class="panel panel-output">
+          <div class="panel-header">
+            <h2>JSON output</h2>
+            <div class="panel-actions">
+              <button id="formatBtn" class="ghost-button" type="button">
+                Reformat
+              </button>
+              <button id="copyBtn" class="ghost-button" type="button">
+                Copy JSON
+              </button>
+            </div>
+          </div>
+          <pre id="jsonOutput" class="code-block" aria-label="JSON output"></pre>
+          <div id="statusBar" class="status-bar" aria-live="polite"></div>
+        </section>
+      </main>
+
+      <footer class="app-footer">
+        <span>Client-side only · Your data never leaves the browser</span>
+      </footer>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+
