@@ -64,6 +64,10 @@ body {
 }
 
 @media (min-width: 768px) {
+  .app-header h1 {
+    white-space: nowrap;
+  }
+
   .app-header {
     align-items: flex-end;
     flex-wrap: nowrap;
