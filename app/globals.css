@@ -36,9 +36,9 @@ body {
 .app-header {
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
-  gap: 16px;
-  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 8px 16px;
+  flex-wrap: wrap;
 }
 
 .subtitle {
@@ -51,7 +51,28 @@ body {
   display: flex;
   align-items: flex-end;
   gap: 8px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.doc-loader .field:first-child {
+  flex: 1 1 200px;
+}
+
+.doc-loader .field:nth-child(2) {
+  flex: 0 0 180px;
+}
+
+@media (min-width: 768px) {
+  .app-header {
+    align-items: flex-end;
+    flex-wrap: nowrap;
+  }
+
+  .doc-loader {
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+  }
 }
 
 .app-main {
