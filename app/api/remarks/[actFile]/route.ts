@@ -87,7 +87,6 @@ export async function POST(request: Request, { params }: Params) {
     };
 
     await put(pathname, JSON.stringify(doc, null, 2), {
-      access: "public",
       contentType: "application/json",
       addRandomSuffix: false
     });
